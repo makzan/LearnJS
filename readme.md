@@ -2,6 +2,12 @@
 
 Easy to make interactive teaching material with YAML and Markdown.
 
+This is now a hobby project. I'm building this so I can make interactive slides for my courses.
+
+# TODO
+
+- tons of core things. Well, this is just a first commits.
+
 # Sample Testing Value
 
 slides:
@@ -41,4 +47,3 @@ slides:
       x: 0
       'y': 10
     src: http://placekitten.com/300/200
-
