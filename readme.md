@@ -1,14 +1,14 @@
-# LearnJS
+## LearnJS
 
 Easy to make interactive teaching material with YAML and Markdown.
 
 This is now a hobby project. I'm building this so I can make interactive slides for my courses.
 
-# TODO
+## TODO
 
 - tons of core things. Well, this is just a first commits.
 
-# Sample Testing Value
+## Sample Testing Value
 
 slides:
   - type: text
@@ -17,7 +17,7 @@ slides:
       'y': 30
     content:
     >
-      # Flash 基礎課程
+      # Title
       
       so, now what? 
       
