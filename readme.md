@@ -9,7 +9,7 @@ This is now a hobby project. I'm building this so I can make interactive slides 
 - tons of core things. Well, this is just a first commits.
 
 ## Screenshot
-![screenshot of current LearnJS state](http://d.pr/i/Rgyg+)
+![screenshot of current LearnJS state](http://makzan.github.com/LearnJS/assets/images/screenshot.png)
 
 ## Sample Testing Value
 
