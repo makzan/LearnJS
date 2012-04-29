@@ -18,33 +18,26 @@ This is now a hobby project. I'm building this so I can make interactive slides 
 	    pos: 
 	      x: 40
 	      'y': 30
-	    content:
-	    >
-	      # Title
-	      
-	      so, now what? 
-	      
-	
+	    content: |
+	      # Slide Title      
+	      so, now what?       
+
 	      now we can have **markdown**, right? **yes, right, and _great_!!**
-	      
-	      
+
 	      What's more? Let's add a link to [42games] 
-	
+
 	      And bullets too.
-	      
+
 	      ### What is Flash?
-	      
-	      * It is an animation tool
-	      
-	      * It is a game
-	      
-	      * It is an iOS app
-	      
+
+	      * It is an animation tool      
+	      * It is a game      
+	      * It is an iOS app      
 	      * None of these.
-	
+
 	        [42games]: http://42games.net "Company behinds LearnJS"
-	
-	
+
+
 	  - type: image
 	    pos: 
 	      x: 0
