@@ -10,5 +10,14 @@
   top: 0;
   left: 0; }
 
+#toggle-source {
+  position: fixed;
+  top: 0;
+  right: 0;
+  display: block;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  color: white; }
+
 .hello {
   color: red; }

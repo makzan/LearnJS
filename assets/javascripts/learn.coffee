@@ -17,6 +17,9 @@ $ ->
   source.change ->
     console.log "Changes"
     renderer.render()
+    
+  $('#toggle-source').click (e) ->
+    source.toggle()
 
 class Storage
   load: ->

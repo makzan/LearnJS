@@ -14,9 +14,12 @@
     storage.load();
     renderer = new Renderer(source);
     renderer.render();
-    return source.change(function() {
+    source.change(function() {
       console.log("Changes");
       return renderer.render();
+    });
+    return $('#toggle-source').click(function(e) {
+      return source.toggle();
     });
   });
 
